@@ -1,3 +1,4 @@
+//RISC_V 5-stages Pipeline Implementation
 //Program counter
 module PC_counter(input [31:0] clk, reset,
 		  input [31:0] PC_next,
